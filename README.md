@@ -2,7 +2,7 @@
 
 ![Captura de la app](./img/Darkmode.png)
 
-[See the aplication](https://ismaeljdz.github.io/joke-teller/index.html) 👀
+[See the aplication](https://ismaeljdz.github.io/LightDarkMode/) 👀
 
 ## Welcome! 👋
 
